@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # yusdirmanLubis
-Software Developer/Enggineer at USM Health Campus, Kubang Kerian
+Software Developer/Engineer at USM Health Campus, Kubang Kerian
 
 ## Programming Skills
 ```java
