@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: YusdirmanLubis
 email: yusdirman@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ini adalah blog saya tentang komputer, pengaturcaraan, Ruby On Rails, PHP, Javascript, arduino, Linux dan lain-lain
+description: "Ini adalah blog saya tentang komputer, pengaturcaraan, Ruby On Rails, PHP, Javascript, arduino, Linux dan lain-lain"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yusdirman
@@ -24,7 +23,7 @@ github_username:  yusdirman
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
