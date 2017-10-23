@@ -8,7 +8,7 @@ permalink: /about/
 Software Developer/Enggineer at USM Health Campus, Kubang Kerian
 
 ## Programming Skills
-```
+```java
 - Ruby on Rails, rails API, rails admin
 - Javascript, JQuery, React.js, Node.js, xcode
 - Php, CodeIgniter, Smarty
@@ -19,7 +19,7 @@ Software Developer/Enggineer at USM Health Campus, Kubang Kerian
 ```
 
 ## OS and Servers
-```
+```java
 - Linux, Slackware, Debian, Ubuntu
 - Nginx, Apache web servers
 - Puma, Capistrano
@@ -29,30 +29,25 @@ Software Developer/Enggineer at USM Health Campus, Kubang Kerian
 ```
 
 ## Monitoring
-```- errbit```
+```java
+  - errbit
+```
 
 ## Container and High Availability Linux
-```
+```java
 - Linux Container, Docker
 - Open source cluster, Corosync
 - Open source cluster manager, Pacemaker
 - DRBD, Software Raid
--
 ```
 ## Social Coding
-```
+```c
 - git
 - github
 - gitlab
 ```
 ## Open Source
-```
+```ruby
 - rubygems
 - jquery plugins
 ```
-***
-```ruby
- = link_to "yusdirman@gmail.com", "mailto: yusdirman@gmail.com", class: "btn btn-primary"
- = link_to "fb/yusdirman", "(https://fb.com/yusdirman", class: "btn btn-info"
-```
-***
